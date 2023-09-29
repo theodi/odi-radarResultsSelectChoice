@@ -1,0 +1,17 @@
+{
+  "name": "odi-radarResultsSelectChoice",
+  "version": "1.0.0",
+  "framework": ">=5.19.1",
+  "homepage": "https://github.com/theodi/odi-radarResultsSelectChoice",
+  "bugs": "https://github.com/theodi/odi-radarResultsSelectChoice/issues",
+  "component": "radarResultsSelectChoice",
+  "targetAttribute": "_radarResultsSelectChoice",
+  "displayName": "Assessment Results to show a radar diagram (Works with select choice component)",
+  "description": "A component used to display a single assessment's results (Works with select choice component)",
+  "main": "/js/odi-radarResultsSelectChoice.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPL-3.0"
+}
